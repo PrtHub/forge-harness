@@ -10,7 +10,7 @@ export default function Footer() {
       <ul className="flex gap-8 list-none flex-wrap justify-center">
         <li>
           <Link
-            href="#privacy-policy"
+            href="/privacy"
             className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-text-dim hover:text-text-muted no-underline transition-colors duration-300"
             id="footer-link-privacy"
           >
@@ -19,7 +19,7 @@ export default function Footer() {
         </li>
         <li>
           <Link
-            href="#terms-of-service"
+            href="/terms"
             className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-text-dim hover:text-text-muted no-underline transition-colors duration-300"
             id="footer-link-terms"
           >
@@ -28,7 +28,7 @@ export default function Footer() {
         </li>
         <li>
           <Link
-            href="#support-request"
+            href="/support"
             className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-text-dim hover:text-text-muted no-underline transition-colors duration-300"
             id="footer-link-support"
           >
