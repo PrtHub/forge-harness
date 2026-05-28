@@ -6,7 +6,7 @@ export default function Download() {
       <div className="relative z-10">
         <p className="font-cinzel text-[11px] tracking-[0.35em] uppercase text-ember-600 mb-6 reveal">Available Now</p>
         <h2 className="font-cinzel text-[36px] md:text-[5vw] lg:text-[64px] font-bold leading-tight text-text-primary mb-6 max-w-[700px] mx-auto reveal">The harness begins<br />when you do.</h2>
-        <p className="text-lg font-light text-text-muted mb-13 italic reveal">Local-only. No account. No exposure. Just the work.</p>
+        <p className="text-lg font-light text-text-muted mb-13 italic reveal">Conquer the cycle of temptation, relapses, and fractures. Local-only. No account. No exposure. Just the work.</p>
         <div className="flex gap-5 justify-center flex-wrap reveal">
           <Link href="#store-link-ios" className="flex items-center gap-3.5 px-7 py-4 border border-ink-500 bg-ink-800 text-text-primary no-underline hover:border-ember-600 hover:bg-ink-700 transition-all duration-300 cursor-pointer" id="store-btn-appstore">
             <svg className="w-7 h-7 opacity-70" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">

@@ -5,11 +5,11 @@ export default function Method() {
         The Method
       </p>
       <h2 className="font-cinzel text-[32px] md:text-[4vw] lg:text-[54px] font-bold leading-tight text-text-primary mb-12 reveal">
-        Three tools.
+        Four protocols.
         <br />
         One forge.
       </h2>
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-px bg-ink-600 border border-ink-600 mt-18">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-px bg-ink-600 border border-ink-600 mt-18">
         <div className="bg-ink-900 px-10 py-14 transition-colors duration-500 relative overflow-hidden hover:bg-ink-800 before:content-[''] before:absolute before:bottom-0 before:left-0 before:right-0 before:h-[2px] before:bg-ember-500 before:scale-x-0 before:origin-left hover:before:scale-x-100 before:transition-transform before:duration-500 reveal">
           <svg className="w-12 h-12 mb-7 opacity-90" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <rect x="20" y="4" width="8" height="30" rx="2" fill="#FF6B1A" opacity="0.8" />
@@ -18,7 +18,7 @@ export default function Method() {
           </svg>
           <h3 className="font-cinzel text-xl font-bold text-text-primary mb-4 tracking-wider">The Strike</h3>
           <p className="text-sm font-light text-text-muted leading-relaxed mb-7">
-            One intentional act each day. Strike the iron while it's hot. The double-haptic ritual marks another day forged, not another day survived.
+            Strike the Anvil daily to log your accountability check-in, earn energy, and temper your blade.
           </p>
           <p className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-ember-600 flex items-center gap-2 before:content-[''] before:w-5 before:h-px before:bg-ember-700">
             Daily ritual
@@ -36,13 +36,30 @@ export default function Method() {
           </svg>
           <h3 className="font-cinzel text-xl font-bold text-text-primary mb-4 tracking-wider">The Crucible</h3>
           <p className="text-sm font-light text-text-muted leading-relaxed mb-7">
-            Urge hits — open Crucible. Three taps, ten seconds. Your archetype gets a protocol. Push-ups. Breathing cycles. Cold exposure. Movement. The energy is redirected, not repressed.
+            When temptation spikes, do not endure in silence. Hammer the interactive anvil widget to shave seconds off your timer and release physical tension.
           </p>
           <p className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-ember-600 flex items-center gap-2 before:content-[''] before:w-5 before:h-px before:bg-ember-700">
             Crisis protocol
           </p>
         </div>
         <div className="bg-ink-900 px-10 py-14 transition-colors duration-500 relative overflow-hidden hover:bg-ink-800 before:content-[''] before:absolute before:bottom-0 before:left-0 before:right-0 before:h-[2px] before:bg-ember-500 before:scale-x-0 before:origin-left hover:before:scale-x-100 before:transition-transform before:duration-500 reveal reveal-delay-2">
+          <svg className="w-12 h-12 mb-7 opacity-90" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 40 C 14 36, 16 32, 16 28 M 20 28 C 22 24, 24 20, 24 16 M 28 16 C 30 12, 32 8, 32 4" stroke="#3B3730" strokeWidth="2" strokeDasharray="3 3" />
+            <path d="M12 36 C10 33 11 30 14 30 C16 30 17 33 16 36 C15 39 14 39 12 36 Z" fill="#FF6B1A" opacity="0.6" />
+            <path d="M22 24 C20 21 21 18 24 18 C26 18 27 21 26 24 C25 27 24 27 22 24 Z" fill="#FFAA66" opacity="0.8" />
+            <path d="M30 12 C28 9 29 6 32 6 C34 6 35 9 34 12 C33 15 32 15 30 12 Z" fill="#FFDA6A" opacity="0.95" />
+            <path d="M34 26 V22 C34 18 38 18 38 22 V26" stroke="#FF6B1A" strokeWidth="1.5" strokeLinecap="round" opacity="0.4" />
+            <rect x="31" y="26" width="14" height="10" rx="1.5" fill="#3B1F00" stroke="#FF6B1A" strokeWidth="1" />
+          </svg>
+          <h3 className="font-cinzel text-xl font-bold text-text-primary mb-4 tracking-wider">Severity Mode</h3>
+          <p className="text-sm font-light text-text-muted leading-relaxed mb-7">
+            For critical urges, mental negotiation fails. Forge locks your device and requires you to physically walk 200 steps to unlock, breaking the urge loop instantly.
+          </p>
+          <p className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-ember-600 flex items-center gap-2 before:content-[''] before:w-5 before:h-px before:bg-ember-700">
+            Physical Lock-gate
+          </p>
+        </div>
+        <div className="bg-ink-900 px-10 py-14 transition-colors duration-500 relative overflow-hidden hover:bg-ink-800 before:content-[''] before:absolute before:bottom-0 before:left-0 before:right-0 before:h-[2px] before:bg-ember-500 before:scale-x-0 before:origin-left hover:before:scale-x-100 before:transition-transform before:duration-500 reveal reveal-delay-3">
           <svg className="w-12 h-12 mb-7 opacity-90" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path
               d="M8 36 L16 24 L24 28 L32 16 L40 20"
@@ -62,7 +79,7 @@ export default function Method() {
           </svg>
           <h3 className="font-cinzel text-xl font-bold text-text-primary mb-4 tracking-wider">The Oracle</h3>
           <p className="text-sm font-light text-text-muted leading-relaxed mb-7">
-            Predictive risk scoring built from your own patterns. The Oracle knows your high-risk windows, your triggers, your failure clusters — and warns you before they arrive.
+            Predictive intelligence that maps your historical urge hours, evaluates tonight's risk, and warns you before you enter high-vulnerability windows.
           </p>
           <p className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-ember-600 flex items-center gap-2 before:content-[''] before:w-5 before:h-px before:bg-ember-700">
             Pattern intelligence

@@ -36,8 +36,8 @@ export default function Hero() {
             <br />
             <em className="not-italic text-ember-500">Harvest it.</em>
           </h1>
-          <p className="text-xl font-light text-text-muted leading-relaxed mb-[52px] max-w-[420px]">
-            Most apps treat compulsive behavior as disease. Forge inverts it — your urges are raw fuel. Strike them into something unbreakable.
+          <p className="text-xl font-light text-text-muted leading-relaxed mb-[52px] max-w-[500px]">
+            Stop staring at a passive countdown timer. Forge is a science-backed, offline-first discipline harness designed to break free from compulsive digital loops and reclaim your focus by turning raw temptation into physical, game-like steel craft.
           </p>
           <div className="flex gap-5 flex-wrap items-center">
             <Link
@@ -46,7 +46,7 @@ export default function Hero() {
               id="hero-btn-download"
             >
               <span className="relative z-10 flex items-center gap-2">
-                Download Free
+                ENTER THE CRUCIBLE
                 <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
                   <path
                     d="M3 7h8M8 4l3 3-3 3"
@@ -64,7 +64,7 @@ export default function Hero() {
               className="font-cinzel text-xs tracking-[0.2em] uppercase text-text-muted hover:text-text-primary no-underline flex items-center gap-2 transition-colors duration-300"
               id="hero-btn-method"
             >
-              The Method
+              EXPLORE THE PROTOCOLS
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
                 <path
                   d="M6 2v8M2 8l4 4 4-4"

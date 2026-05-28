@@ -9,6 +9,7 @@ import Method from "@/components/Method";
 import Stats from "@/components/Stats";
 import Progression from "@/components/Progression";
 import Pledge from "@/components/Pledge";
+import TrustManifest from "@/components/TrustManifest";
 import Download from "@/components/Download";
 import Footer from "@/components/Footer";
 
@@ -48,6 +49,7 @@ export default function Home() {
       <Stats />
       <Progression />
       <Pledge />
+      <TrustManifest />
       <Download />
       <Footer />
     </>
