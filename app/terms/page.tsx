@@ -73,13 +73,13 @@ export default function TermsPage() {
             </p>
             <ul className="list-disc pl-6 space-y-2.5">
               <li>
-                <strong className="text-text-primary font-normal">Annual Mastery</strong>: $47.99/year (includes a 3-Day Challenge trial, equivalent to only $4.00/mo).
+                <strong className="text-text-primary font-normal">Annual Mastery</strong>: $49.99/year (includes a 3-Day Challenge trial, equivalent to only $4.17/mo).
               </li>
               <li>
-                <strong className="text-text-primary font-normal">90-Day Reset</strong>: $17.99 per 3 months (equivalent to only $6.00/mo).
+                <strong className="text-text-primary font-normal">90-Day Reset</strong>: $24.99 per 3 months (equivalent to only $8.33/mo).
               </li>
               <li>
-                <strong className="text-text-primary font-normal">Monthly Tactical</strong>: $7.99/month, cancel anytime.
+                <strong className="text-text-primary font-normal">Monthly Tactical</strong>: $12.99/month, cancel anytime.
               </li>
             </ul>
             <p>
