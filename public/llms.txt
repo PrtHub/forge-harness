@@ -1,0 +1,41 @@
+# Forge
+
+Forge is a serverless, local-first recovery, self-discipline, and habit-building application. It approaches compulsive digital behaviors (such as porn addiction, hyper-stimulation, and dopamine downregulation) through cognitive behavioral redirection, stimulus control, and physical locomotion lockouts (Severity Mode). All data remains strictly encrypted on the user's local device—no accounts, no cloud, no trackers.
+
+## Core Tools & Diagnostics
+
+- [/tools/urge-calculator](/tools/urge-calculator): Urge Opportunity Cost Calculator. Calculates lifetime hours and estimated financial potential lost in compulsive urge loops, and projects what is reclaimed in 90 days.
+- [/tools/dopamine-audit](/tools/dopamine-audit): Dopamine Baseline Audit Quiz. A 10-point diagnostic quiz measuring digital multitasking, phone hygiene, solitude tolerance, and receptor downregulation.
+- [/tools/friction-architect](/tools/friction-architect): Screen Friction Architect. Environmental design planner auditing device color spectrums, notification setups, chargers, and app filters to generate a device-hardening checklist.
+- [/tools/rewiring-estimator](/tools/rewiring-estimator): Brain Rewiring Timeline Estimator. Projects neuroplastic recovery milestones, receptor upregulation stages, and molecular DeltaFosB clearance rate.
+
+## Resources Hub
+
+- [/resources](/resources): The Recovery Arsenal. A curated, multi-layered directory indexing hardcore system blockers (NextDNS, Cold Turkey, Opal, Pi-hole), cognitive behavior literature (Your Brain on Porn, Dopamine Nation), and crisis nodes.
+
+## Science & Clinical Studies
+
+- [/studies](/studies): Database of peer-reviewed clinical research covering the neurobiology of behavioral addiction.
+- [/studies/optic-flow-anxiety-reduction](/studies/optic-flow-anxiety-reduction): Optic Flow and Anxiety Reduction (Dr. Andrew Huberman, Stanford).
+- [/studies/impact-of-hyper-dopaminergic-stimuli](/studies/impact-of-hyper-dopaminergic-stimuli): Hyper-Dopaminergic Stimuli & Receptor Downregulation (Dr. Nora Volkow, NIDA).
+- [/studies/prefrontal-cortex-hypofrontality](/studies/prefrontal-cortex-hypofrontality): Prefrontal Cortex Hypofrontality in Addiction (Dr. Marc Potenza, Yale).
+- [/studies/sleep-deprivation-self-control](/studies/sleep-deprivation-self-control): Sleep Deprivation and Executive Control (Dr. Matthew Walker, UC Berkeley).
+- [/studies/delta-fosb-accumulation-compulsion](/studies/delta-fosb-accumulation-compulsion): DeltaFosB Molecular Accumulation and Compulsion Thresholds (Dr. Eric Nestler, Mount Sinai).
+- [/studies/mindfulness-prefrontal-thickness](/studies/mindfulness-prefrontal-thickness): Mindfulness Meditation and Prefrontal Cortex Thickness (Dr. Sara Lazar, Harvard).
+
+## Behavioral Habits
+
+- [/habits](/habits): Step-by-step physical and digital protocols to rebuild willpower, manage intense triggers, and lower cortisol.
+- [/habits/the-quench-breathing-method](/habits/the-quench-breathing-method): Cyclic sighing technique to rapidly downregulate the autonomic nervous system during trigger spikes.
+- [/habits/friction-based-phone-setup](/habits/friction-based-phone-setup): Guide to setting up grayscale color filters and outsourcing screentime lock passcodes.
+- [/habits/cold-shower-shock](/habits/cold-shower-shock): Autonomic shock therapy to spike plasma dopamine and norepinephrine levels cleanly.
+- [/habits/riding-the-craving-wave](/habits/riding-the-craving-wave): Cognitive urge-surfing protocol to observe and de-escalate physical cravings.
+
+## Blueprints & Guides
+
+- [/guides](/guides): In-depth recovery manuals addressing cognitive traps, timelines, and somatic redirection.
+- [/guides/how-to-quit-porn](/guides/how-to-quit-porn): Quit Porn Redirection Protocol. Focuses on urge sublimation and stimulus control over willpower.
+- [/guides/dopamine-detox-protocol](/guides/dopamine-detox-protocol): Dopamine Detox Reset. Restoring receptor sensitivity and focus baseline.
+- [/guides/severity-mode-guide](/guides/severity-mode-guide): Severity Mode Lockout Guide. Neurology of relocation and step tracking.
+- [/guides/brain-rewiring-timeline](/guides/brain-rewiring-timeline): Neuroplasticity Reboot Timeline. Timeline of baseline recovery, flatlines, and receptor stabilization.
+- [/guides/overcoming-pied](/guides/overcoming-pied): Physiological reversal of Porn-Induced Erectile Dysfunction.

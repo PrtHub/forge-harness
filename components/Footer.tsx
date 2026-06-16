@@ -7,7 +7,52 @@ export default function Footer() {
         <div className="font-cinzel text-lg font-bold tracking-[0.2em] text-ember-600">FORGE</div>
         <p className="text-xs font-light italic text-text-dim mt-1">Don't fight the urge. Harvest it.</p>
       </div>
-      <ul className="flex gap-8 list-none flex-wrap justify-center">
+      <ul className="flex gap-6 md:gap-8 list-none flex-wrap justify-center">
+        <li>
+          <Link
+            href="/tools"
+            className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-text-dim hover:text-text-muted no-underline transition-colors duration-300"
+            id="footer-link-tools"
+          >
+            Tools
+          </Link>
+        </li>
+        <li>
+          <Link
+            href="/guides"
+            className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-text-dim hover:text-text-muted no-underline transition-colors duration-300"
+            id="footer-link-guides"
+          >
+            Guides
+          </Link>
+        </li>
+        <li>
+          <Link
+            href="/habits"
+            className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-text-dim hover:text-text-muted no-underline transition-colors duration-300"
+            id="footer-link-habits"
+          >
+            Habits
+          </Link>
+        </li>
+        <li>
+          <Link
+            href="/studies"
+            className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-text-dim hover:text-text-muted no-underline transition-colors duration-300"
+            id="footer-link-studies"
+          >
+            Science
+          </Link>
+        </li>
+        <li>
+          <Link
+            href="/resources"
+            className="font-cinzel text-[10px] tracking-[0.25em] uppercase text-text-dim hover:text-text-muted no-underline transition-colors duration-300"
+            id="footer-link-resources"
+          >
+            Resources
+          </Link>
+        </li>
         <li>
           <Link
             href="/privacy"
