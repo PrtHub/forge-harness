@@ -8,7 +8,7 @@ export default function Download() {
         <h2 className="font-cinzel text-[36px] md:text-[5vw] lg:text-[64px] font-bold leading-tight text-text-primary mb-6 max-w-[700px] mx-auto reveal">The harness begins<br />when you do.</h2>
         <p className="text-lg font-light text-text-muted mb-13 italic reveal">Conquer the cycle of temptation, relapses, and fractures. Local-only. No account. No exposure. Just the work.</p>
         <div className="flex gap-5 justify-center flex-wrap reveal">
-          <Link href="#store-link-ios" className="flex items-center gap-3.5 px-7 py-4 border border-ink-500 bg-ink-800 text-text-primary no-underline hover:border-ember-600 hover:bg-ink-700 transition-all duration-300 cursor-pointer" id="store-btn-appstore">
+          <Link href="https://apps.apple.com/us/app/forge-iron-mind-discipline/id6767904744" className="flex items-center gap-3.5 px-7 py-4 border border-ink-500 bg-ink-800 text-text-primary no-underline hover:border-ember-600 hover:bg-ink-700 transition-all duration-300 cursor-pointer" id="store-btn-appstore">
             <svg className="w-7 h-7 opacity-70" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path
                 d="M20.5 14.5c0-3.5-2.9-5.3-2.9-5.3s0.3-3.6-3.6-3.6c-1.2 0-2.1 0.4-2.8 1C10.5 5.9 9.2 5.5 7.9 6c-2.5 1-3.4 3.8-3.4 3.8s-2.5 2-1.5 6.5c0.8 3.7 3.2 5.7 4.8 6.2 0.8 0.3 1.5 0.1 2-0.3l0.2-0.2c0.4-0.4 1-0.6 1.6-0.6h0.8c0.6 0 1.2 0.2 1.6 0.6l0.2 0.2c0.5 0.4 1.2 0.6 2 0.3 1.6-0.5 4-2.5 4.8-6.2C21 17.3 20.5 14.5 20.5 14.5z"
